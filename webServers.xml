@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="50bdd8c6-b9fb-41fd-9893-e82caaacb350" name="Apache Local" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="d0615d48-ca03-4c0f-9982-ad9884a91683" name="Superbolsa Virtual Host" url="http://superbolsa.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
