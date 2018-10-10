@@ -1,5 +1,6 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
-  <action id="CloseActiveTab">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="Diff.NextChange" />
