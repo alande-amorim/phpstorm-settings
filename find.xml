@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '/var/www/gser-desafieme2-gwm/resources/views/reports/player.blade.php [gser-desafieme2-gwm]'" />
+    <option name="defaultScopeName" value="File '/var/www/gser-desafieme2-gwm/resources/views/reports/player.blade.php [gser-desafieme2-gwm]'" />
+    <option name="SEARCH_SCOPE" value="File '/var/www/gser-desafieme2-gwm/resources/views/reports/player.blade.php [gser-desafieme2-gwm]'" />
   </component>
 </application>
