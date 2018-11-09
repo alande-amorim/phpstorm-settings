@@ -7,6 +7,9 @@
       <webServer id="d0615d48-ca03-4c0f-9982-ad9884a91683" name="Superbolsa Virtual Host" url="http://superbolsa.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1c73166a-55e1-423c-a367-612ca7c2aa69" name="gwm.desafieme.local" url="http://gwm.desafieme.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
