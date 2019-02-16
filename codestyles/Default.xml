@@ -2,6 +2,9 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
